@@ -38,8 +38,8 @@
 /github-contributing-guidelines/	https://jloh.co/github-contributing-guidelines/
 /author/*				https://jloh.co/author/:splat
 /sitemap*				https://jloh.co/sitemap:splat
-/content/*				https://jloh.co/:splat
-/tag/*					https://jloh.co/:splat
+/content/*				https://jloh.co/content/:splat
+/tag/*					https://jloh.co/tag/:splat
 
 /:splat	https://jloh.co/posts/:splat
 
