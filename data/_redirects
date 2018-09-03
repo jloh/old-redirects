@@ -1,0 +1,47 @@
+/rss/		https://jloh.co/rss/
+
+# Mooash.me redirects
+/2014/10/24/nagios-nrpe-ansible-role/										https://jloh.co/posts/nagios-nrpe-ansible-role/
+/2014/07/15/monitor-solusvm-bandwidth-usage-nagios/							https://jloh.co/posts/monitor-solusvm-bandwidth-usage-nagios/
+/2015/04/15/nrpe-server-ansible-role-v2-2-0/								https://jloh.co/posts/nrpe-server-ansible-role-v2-2-0/
+/2016/03/27/github-username-change/											https://jloh.co/posts/github-username-change/
+/2015/09/15/opening-files-over-ssh-vim/										https://jloh.co/posts/opening-files-over-ssh-vim/
+/2015/08/13/pipe-nsca-logs-to-separate-file/								https://jloh.co/posts/pipe-nsca-logs-to-separate-file/
+/2016/02/01/one-click-qualys-ssl-labs-test/									https://jloh.co/posts/one-click-qualys-ssl-labs-test/
+/2014/08/12/set-custom-title-url-piwik/										https://jloh.co/posts/set-custom-title-url-piwik/
+/2013/03/24/how-to-setup-piwik-with-asynchronous-tracking-in-wordpress/		https://jloh.co/posts/how-to-setup-piwik-with-asynchronous-tracking-in-wordpress/
+/2013/12/07/ssh-keys-dont-work-on-a-fresh-install-centos/					https://jloh.co/posts/ssh-keys-dont-work-on-a-fresh-install-centos/
+/2014/04/04/installing-newrelic-monitor-gitlab/								https://jloh.co/posts/installing-newrelic-monitor-gitlab/
+/2015/12/26/lets-encrypt-beta-my-experience/								https://jloh.co/posts/lets-encrypt-beta-my-experience/
+/2015/06/19/installing-newrelic-monitor-gitlab-omnibus-install/				https://jloh.co/posts/installing-newrelic-monitor-gitlab-omnibus-install/
+/2015/05/27/configdroid-creating-an-ansible-community/						https://jloh.co/posts/configdroid-creating-an-ansible-community/
+/2013/02/09/setting-up-nagios-and-munin/									https://jloh.co/posts/setting-up-nagios-and-munin/
+/2014/04/09/allow-ssh-key-certain-ips/										https://jloh.co/posts/allow-ssh-key-certain-ips/
+/nagios-nrpe-ansible-role/													https://jloh.co/posts/nagios-nrpe-ansible-role/
+/monitor-solusvm-bandwidth-usage-nagios/									https://jloh.co/posts/monitor-solusvm-bandwidth-usage-nagios/
+/nrpe-server-ansible-role-v2-2-0/											https://jloh.co/posts/nrpe-server-ansible-role-v2-2-0/
+/github-username-change/													https://jloh.co/posts/github-username-change/
+/opening-files-over-ssh-vim/												https://jloh.co/posts/opening-files-over-ssh-vim/
+/pipe-nsca-logs-to-separate-file/											https://jloh.co/posts/pipe-nsca-logs-to-separate-file/
+/one-click-qualys-ssl-labs-test/											https://jloh.co/posts/one-click-qualys-ssl-labs-test/
+/set-custom-title-url-piwik/												https://jloh.co/posts/set-custom-title-url-piwik/
+/how-to-setup-piwik-with-asynchronous-tracking-in-wordpress/				https://jloh.co/posts/how-to-setup-piwik-with-asynchronous-tracking-in-wordpress/
+/ssh-keys-dont-work-on-a-fresh-install-centos/								https://jloh.co/posts/ssh-keys-dont-work-on-a-fresh-install-centos/
+/installing-newrelic-monitor-gitlab/										https://jloh.co/posts/installing-newrelic-monitor-gitlab/
+/lets-encrypt-beta-my-experience/											https://jloh.co/posts/lets-encrypt-beta-my-experience/
+/installing-newrelic-monitor-gitlab-omnibus-install/						https://jloh.co/posts/installing-newrelic-monitor-gitlab-omnibus-install/
+/configdroid-creating-an-ansible-community/									https://jloh.co/posts/configdroid-creating-an-ansible-community/
+/setting-up-nagios-and-munin/												https://jloh.co/posts/setting-up-nagios-and-munin/
+/allow-ssh-key-certain-ips/													https://jloh.co/posts/allow-ssh-key-certain-ips/
+
+
+/author/*	https://jloh.co/author/:splat
+
+/about/		https://jloh.co/about/
+/friends/	https://jloh.co/friends/
+/github-contributing-guidelines/	https://jloh.co/github-contributing-guidelines/
+/sitemap*	https://jloh.co/sitemap:splat
+/content/*	https://jloh.co/:splat
+/tag/*		https://jloh.co/:splat
+
+/:splat https://jloh.co/posts/:splat
