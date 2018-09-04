@@ -33,6 +33,8 @@
 /allow-ssh-key-certain-ips/							https://jloh.co/posts/allow-ssh-key-certain-ips/
 
 /rss/					https://jloh.co/rss/
+# Catch people hitting just /posts/
+/posts/					https://jloh.co/
 /about/					https://jloh.co/about/
 /friends/				https://jloh.co/friends/
 /github-contributing-guidelines/	https://jloh.co/github-contributing-guidelines/
