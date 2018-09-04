@@ -42,6 +42,7 @@
 /sitemap*				https://jloh.co/sitemap:splat
 /content/*				https://jloh.co/content/:splat
 /tag/*					https://jloh.co/tag/:splat
+/posts/*				https://jloh.co/posts/:splat
 
 /:splat	https://jloh.co/posts/:splat
 
